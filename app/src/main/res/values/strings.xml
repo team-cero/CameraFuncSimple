@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Record</string>
+    <string name="launch_camera">Launch Camera</string>
+    <string name="title">Take a picture of your odometer!</string>
+</resources>
